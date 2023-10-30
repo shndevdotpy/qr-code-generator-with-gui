@@ -8,4 +8,4 @@
 - uuid
 - typing
 
-![Program Preview](http://url/to/img.png)
+![Program Preview](https://raw.githubusercontent.com/shndevdotpy/qr-code-generator-with-gui/main/preview.png)
