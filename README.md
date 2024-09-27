@@ -1,7 +1,7 @@
 # QR code generator with gui!
 
 ## Required libraries:
-- tkinker
+- tkinter
 - pillow
 - qrcode
 - os
